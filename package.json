@@ -1,0 +1,23 @@
+{
+    "name": "terraform-practice",
+    "version": "2022.1.1",
+    "devDependencies": {
+      "markdownlint-cli": "^0.31.1",
+      "husky": "^7.0.4",
+      "spellchecker-cli": "^4.9.1"
+    },
+    "scripts": {
+      "md-lint": "markdownlint '**/*.md' --ignore node_modules",
+      "husky-prep": "husky install",
+      "md-spellcheck": "spellchecker --files '**/*.md' -d 'dictionary.txt' --language en-GB"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ramkrish26/terraform-practice.git"
+    },
+    "license": "ISC",
+    "dependencies": {
+      "markdownlint": "^0.25.1",
+      "uuid": "^8.3.2"
+    }
+  }

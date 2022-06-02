@@ -1,4 +1,5 @@
 .terraform/
 Exercise Files/
+node_modules/
 
 .terraform.lock.hcl
