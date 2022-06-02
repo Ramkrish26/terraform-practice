@@ -1,0 +1,2 @@
+access_key=ASIASBSUF5X6L5ATSQX5
+secret_key=aKpAXOD6iDwpS6D3sEf/BrE0Nq0qrrBZwCDgKzbl

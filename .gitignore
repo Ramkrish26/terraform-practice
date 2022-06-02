@@ -1,0 +1,4 @@
+.terraform/
+Exercise Files/
+
+.terraform.lock.hcl
