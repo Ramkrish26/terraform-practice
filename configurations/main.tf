@@ -15,7 +15,7 @@ provider "aws"{
 # S3 bucket
 
 resource "aws_s3_bucket" "terraform-s3" {
-    bucket = "terraform-s3"
+    bucket = "ramkrish"
 
     tags = {
     Name        = "tf-practice"
