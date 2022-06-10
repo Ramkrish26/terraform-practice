@@ -1,2 +1,2 @@
-access_key="placeholder"
-secret_key="placeholder"
+billing_code = "ACCT8675309"
+project      = "globo-web-app"

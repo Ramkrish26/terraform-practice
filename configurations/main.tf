@@ -5,10 +5,10 @@
 # S3 bucket
 
 resource "aws_s3_bucket" "terraform-s3" {
-    bucket = "ramkrish"
+  bucket = "ramkrish"
 
-    tags = {
+  tags = {
     Name        = "tf-practice"
     Environment = "Dev"
-    }
+  }
 }
