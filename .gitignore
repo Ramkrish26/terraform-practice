@@ -7,3 +7,5 @@ node_modules/
 .terraform.lock.hcl
 *.tfplan
 *.tfstate.backup
+terraform.tfstate
+*.tfstate.d

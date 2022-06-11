@@ -1,6 +1,6 @@
 # S3 Bucket config#
 resource "aws_iam_role" "allow_instance_s3" {
-    name = "${var.bucket_name}_allow_instance_s3"
+  name = "${var.bucket_name}_allow_instance_s3"
 
   assume_role_policy = <<EOF
 {
